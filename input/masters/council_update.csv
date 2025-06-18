@@ -1,0 +1,95 @@
+cd,pop,pop_u18,hisp,white,black,asian,other_race,multiracial,dem,rep,blank,third_parties,prim_adams,prim_wiley,prim_garcia,prim_yang,prim_stringer,prim_morales,prim_mcguire,prim_donovan,prim_votes,adams,sliwa,mayor_votes,active_voters_21,mayor_turnout_pct,prez_votes,active_voters_24,prez_turnout_24,active_voters_23,council_turnout_23,incumbent,boro,party,ntas,lar_grp1,lar_grp2,lar_grp3,lar_pop1,lar_pop2,lar_pop3,mhIncome
+1,162845,21636,22653,73931,9002,49787,1390,5834,68860,9810,26525,1991,3098,4468,6212,5350,1272,521,798,448,22646,16315,4747,22957,100657,23,59753,97368,61.37,0,0,Christopher Marte,m,D,"Battery Park City, Civic Center, Chinatown, Financial District, Little 
+Italy, the Lower East Side, NoHo, SoHo, South Street Seaport, South 
+Village, TriBeCa & Washington Square","Chinese, excluding Taiwanese",Italian,Irish,40617,11838,10466,131217.6
+2,168817,15880,28951,92480,12953,26694,979,6490,77899,8113,23521,2286,3461,6674,9866,2958,1848,657,856,675,27451,21310,3780,27432,108977,25,66089,101639,65.02,0,0,Carlina Rivera,m,D,"East Village, Gramercy Park, Kips Bay, Lower East Side, Murray Hill, Rose 
+Hill","Chinese, excluding Taiwanese",Irish,Italian,15932,15107,12955,132521.6
+3,162360,14269,25550,96123,9385,22687,832,7423,76889,9051,25456,2263,3331,6458,10647,3056,2155,478,914,768,28177,22082,3540,27695,105286,26,71326,101210,70.47,0,0,Erik Bottcher,m,D,"Chelsea, Hell’s Kitchen, Greenwich Village, West SoHo, Hudson Square, Times 
+Square, Garment District, Flatiron, Upper West Side",Irish,Italian,English,18549,15209,15081,139252.7
+4,155564,19050,13609,108888,4275,21172,1213,6276,67701,15459,27826,2646,3871,3660,10784,3031,1668,271,1995,871,26376,23169,6089,30930,105191,29,74322,103535,71.78,0,0,Keith Powers,m,D,"Upper East Side, Carnegie Hill, Yorkville, Central Park South, Midtown 
+East, Times Square, Koreatown, Stuyvesant Town and Peter Cooper Village, 
+Waterside Plaza, Tudor City, Turtle Bay, Murray Hill, Sutton Place",Irish,Italian,German,16938,13665,11842,174965.3
+5,161667,22850,14550,116359,6043,18289,1059,5011,72346,13152,26407,2500,4091,4937,11858,3261,1903,369,1610,942,29306,26170,6456,34650,107411,32,78593,103441,75.98,0,0,Julie Menin,m,D,"Upper East Side's Yorkville, Lenox Hill, Carnegie Hill, Roosevelt Island, 
+Midtown East, Sutton Place, El Barrio in East Harlem",Irish,Italian,German,16081,14462,12124,154655.5
+6,172004,25477,18999,118393,6487,20482,1857,5688,87213,9337,24531,2177,4870,6239,16708,3311,3452,475,1775,889,38066,31454,4810,38742,114405,34,83096,111227,74.71,0,0,Gale A. Brewer,m,D,"Central Park, Lincoln Square, Upper West Side, Clinton",German,Irish,Italian,14560,14060,12727,167251
+7,175324,24236,60668,63445,27982,16067,1034,5895,91853,5246,19344,2253,5830,7822,9568,2065,2713,1010,1022,688,31406,25695,2623,31462,113452,28,66837,107929,61.93,0,0,Shaun Abreu,m,D,"m Valley, mville, Morningside Heights, Hamilton Heights",Dominican,Irish,Puerto Rican,31147,9614,8719,88059.4
+8,182392,41191,93182,20842,50352,11659,1863,3854,77140,5839,20357,2423,5469,3087,2035,1462,797,870,485,392,15173,13466,2281,17031,104527,16,46672,94351,49.47,0,0,Diana Ayala,m/bx,D,"El Barrio/East Harlem, Mott Haven, Highbridge, Concourse, Longwood, Port 
+Morris",Puerto Rican,Dominican,Mexican,36915,24324,14522,44305.1
+9,176353,33314,44755,28119,85444,8229,1838,7902,90711,3848,17923,2517,10699,8139,3300,1235,1231,725,1011,587,27622,24594,1569,28954,113709,25,62960,105350,59.76,0,0,Yusef Salaam,m,D,"Central Harlem, Morningside Heights, Upper West Side, East Harlem",Dominican,S African African,Puerto Rican,20190,12753,9952,63211.4
+10,184917,31974,121274,38318,12544,6177,1474,4660,87326,6700,19369,2133,6155,6188,4639,1712,1614,1257,356,433,23239,18592,3438,24088,116361,21,59450,104997,56.62,0,0,Carmen De La Rosa,m,D,"Washington Heights, Inwood, Marble Hill",Dominican,Puerto Rican,Mexican,82583,9104,7433,74274.6
+11,171973,37225,76389,43316,34088,10188,2549,4677,64999,7988,18894,2398,5539,3674,4317,1958,1632,539,495,690,19316,15409,5177,22083,95342,23,52961,88241,60.02,0,0,Eric Dinowitz,bx,D,"Bedford Park, Kingsbridge, Riverdale, Norwood, Van Cortlandt Village, 
+Wakefield, Woodlawn",Dominican,Puerto Rican,Irish,33537,19261,9591,78149.6
+12,178835,41611,55203,5129,107299,3741,2244,4741,76207,4525,16890,2233,10914,3664,855,1007,813,355,576,653,19246,18998,1830,21518,99635,22,54057,94779,57.03,0,0,Kevin C. Riley,bx,D,"Wakefield, Olinville, Edenwald, Eastchester, Williamsbridge, Baychester, 
+Co-op City",Jamaican,Puerto Rican,Dominican,32908,21087,19618,67325.1
+13,162263,34076,73082,47792,21908,14081,1093,3926,58862,15003,22048,3158,3708,2025,1789,1573,862,429,282,465,11538,9260,9468,19918,92988,21,51106,88782,57.56,0,0,Kristy Marmorato,bx,R,"Allerton, City Island, Country Club, Edgewater Park, Ferry Point, Locust 
+Point, Morris Park, Pelham Bay, Pelham Gardens, Pelham Parkway, 
+Schuylerville, Silver Beach, Spencer Estates, Throggs Neck, Van Nest, 
+Waterbury LaSalle, Westchester Square, Zerega",Puerto Rican,Dominican,Italian,32078,21942,20536,81096.6
+14,162132,40806,119463,4794,32121,2436,1049,2060,60368,5755,16695,1701,4793,1464,748,1004,426,732,228,237,10238,8556,1659,10977,82915,13,36579,78679,46.49,0,0,Pierina Ana Sanchez,bx,D,"Morris Heights, University Heights, Fordham, Kingsbridge",Dominican,Puerto Rican,Mexican,71273,20407,11847,43369.5
+15,167912,45180,110676,7529,43168,2784,888,2437,59251,5371,16874,1882,4318,1367,705,858,369,597,222,267,9208,7979,1495,10236,82025,12,33128,72358,45.78,0,0,Oswald Feliz,bx,D,"Bedford Park, Fordham, Mount Hope, Bathgate, Belmont, East Tremont, West 
+Farms, Van Nest, Allerton, Olinville",Dominican,Puerto Rican,S African African,52780,30569,12476,38801.3
+16,166397,43384,94301,6045,60029,1683,1245,2594,67378,5216,17008,1904,6302,1878,702,1016,486,784,364,299,12508,11912,1512,14092,92494,15,39182,85470,45.84,0,0,Althea Stevens,bx,D,"Claremont, Concourse, Concourse Village, Highbridge, Morris Heights, Mount 
+Eden, Morrisania",Dominican,Puerto Rican,S African African,47577,22141,16468,41426.9
+17,167575,44896,110180,2353,48232,1548,1493,3356,64739,5033,17246,2088,5181,1430,653,935,373,611,260,258,10173,9323,1690,11652,88043,13,37098,84135,44.09,0,0,Rafael Salamanca Jr.,bx,D,"Concourse Village, Crotona Park East, East Tremont, Hunts Point, Longwood, 
+Melrose, Morrisania, Port Morris, West Farms, North Brother Island, South 
+Brother Island",Dominican,Puerto Rican,Mexican,40997,39174,11087,38573.3
+18,164170,39827,90171,4347,43812,19077,3055,3290,68113,5758,18564,2093,6965,2503,1128,1536,800,658,412,531,15157,10840,2347,13874,96216,14,46194,92069,50.17,0,0,Amanda Farías,bx,D,"Soundview, Castle Hill, Parkchester, Clason Point, Harding Park",Puerto Rican,Dominican,Asian Indian,37186,30201,9077,51754
+19,170920,32596,31796,67865,2281,62979,1641,3355,45942,20678,27642,2987,2304,1411,3222,4118,1331,235,326,543,14022,10344,16460,28415,95269,30,58306,92530,63.01,0,0,Vickie Paladino,q,R,"Auburndale, Bay Terrace, Bayside, Beechhurst, College Point, Douglaston, 
+Flushing, Little Neck, Malba, Whitestone","Chinese, excluding Taiwanese",Italian,Korean,41187,22267,14519,101362.2
+20,146223,23038,21315,17193,3359,100495,1036,2422,39341,9684,23062,1479,1781,925,1076,5371,525,248,135,250,10926,6612,5962,13633,70931,19,32808,69982,46.88,0,0,Sandra Ung,q,D,"Downtown Flushing, Murray Hill, qboro Hill","Chinese, excluding Taiwanese",Korean,Italian,77187,11244,5291,65815.3
+21,149703,35240,109574,5812,13594,18434,730,1320,38039,5218,14510,1174,3091,1189,646,992,305,433,181,209,7389,6279,2007,8848,58770,15,27072,55361,48.9,0,0,Francisco Moya,q,D,"East Elmhurst, Elmhurst, Jackson Heights, and Corona in q, including 
+Flushing Meadows Corona Park, Lefrak City and LaGuardia Airport",Ecuadorian,Mexican,Dominican,34685,26396,20586,75033
+22,148663,21132,38665,74889,7286,20739,1204,5575,67535,10710,25305,2613,2303,6454,4075,1985,942,736,236,529,17905,13132,6445,22028,91222,24,61259,97208,63.02,0,0,Tiffany Cabán,q,D,"Astoria, East Elmhurst, Jackson Heights, Woodside",Italian,Irish,Greek,14530,11009,9271,95764.9
+23,168169,30149,26036,35720,17263,76935,5203,6440,61030,14639,28353,2778,4608,2320,3045,3783,1655,449,492,790,17779,13608,9598,24642,102220,24,61637,101471,60.74,0,0,Linda Lee,q,D,"Bayside Hills, Bellerose, Douglaston, Floral Park, Fresh Meadows, Glen 
+Oaks, Hollis, Hollis Hills, Holliswood, Little Neck, New Hyde Park, Oakland 
+Gardens, q Village",Asian Indian,Chinese,Guyanese,27446,23606,9285,97786.2
+24,164574,34205,35526,47172,19289,51995,3349,6650,57534,13986,26093,2282,4530,1912,1968,3674,1140,421,293,512,14937,11098,6978,19189,90571,21,52410,91779,57.1,0,0,James F. Gennaro,q,D,"Kew Gardens Hills, Pomonok, Electchester, Fresh Meadows, Hillcrest, Jamaica 
+Estates, Briarwood, Parkway Village, Jamaica Hills, Jamaica","Chinese, excluding Taiwanese",Bangladeshi,Asian Indian,19715,10750,10133,87371.5
+25,162799,31924,75467,20522,2462,58567,939,4496,49095,8429,21468,1713,2429,3215,2798,3156,880,720,1075,476,15373,10751,4395,16712,80978,21,42983,76909,55.89,0,0,Shekar Krishnan,q,D,"Elmhurst, Jackson Heights",Mexican,"Chinese, excluding Taiwanese",Ecuadorian,20464,19730,17900,73604.5
+26,155896,26996,48041,44742,7844,48729,1122,5134,57190,8709,22906,2087,3243,4859,3782,2802,936,704,320,551,17926,13113,4755,19822,89431,22,52274,84865,61.6,0,0,Julie Won,q,D,"Sunnyside, Woodside, Long Island City, Astoria, Dutch Kills","Chinese, excluding Taiwanese",Mexican,Irish,13988,12207,10020,91049.7
+27,169417,34665,26773,4217,104726,18777,7184,6958,78627,4401,18897,2118,13363,3359,592,919,740,335,681,544,20994,20304,1379,22304,101249,22,56033,100047,56.01,0,0,Nantasha Williams,q,D,"Cambria Heights, Hollis, Jamaica, St. Albans, q Village, and 
+Springfield Gardens",Jamaican,Haitian,Bangladeshi,24012,11229,10759,97762.7
+28,176341,36747,30804,5158,75621,34715,15590,12350,68203,5785,19479,2038,8957,2219,566,1117,574,258,526,528,15179,14374,1880,16833,95046,18,48215,91366,52.77,0,0,Adrienne E. Adams,q,D,"Jamaica, Richmond Hill, Rochdale Village, South Ozone Park",Asian Indian,Guyanese,Jamaican,27086,24186,11346,89076.9
+29,171852,33940,41853,55850,9128,47307,7689,9376,58972,13529,26319,2531,3649,2737,4222,3442,1324,449,348,562,17273,12819,7742,22115,94537,23,57185,94057,60.8,0,0,Lynn Schulman,q,D,"Rego Park, Forest Hills, Kew Gardens, Richmond Hill",Asian Indian,Chinese,Russian,20532,15219,8573,100658.9
+30,168364,32904,54827,74427,2357,30639,1519,4216,45122,16258,26130,2882,1877,2034,2227,2552,739,377,410,408,11019,7093,12704,21156,84335,25,51005,86048,59.28,0,0,Robert F. Holden,q,D,"Glendale, Maspeth, Middle Village, Ridgewood, Woodhaven, Woodside","Chinese, excluding Taiwanese",Polish,Italian,16731,16192,15152,88985.8
+31,181547,44998,32424,22431,111002,6051,2750,6577,72053,5935,16908,2159,11632,2740,581,857,536,222,569,436,17870,17990,2386,21012,93473,22,51530,90833,56.73,0,0,Selvena N. Brooks-Powers,q,D,"Arverne, Brookville, Edgemere, Far Rockaway, Laurelton, Rosedale, 
+Springfield Gardens",Jamaican,Haitian,Puerto Rican,23139,9232,7872,91594.2
+32,170596,36999,61455,68055,8979,24296,2543,5179,49800,20989,24617,3406,3184,1461,2422,2064,928,409,290,450,11642,9452,16802,28212,94937,30,56926,92734,61.39,0,0,Joann Ariola,q,R,"Belle Harbor, Breezy Point, Broad Channel, Howard Beach, Lindenwood, 
+Neponsit, Ozone Park, Richmond Hill, Rockaway Park, Roxbury, South Ozone 
+Park, West Hamilton Beach, Woodhaven",Italian,Irish,Puerto Rican,22273,17642,16308,96490.4
+33,164426,43171,17644,118424,6615,12217,1159,8295,78994,7061,20261,1978,3464,8294,7712,4929,975,570,460,418,27325,16541,2998,21723,96335,23,64825,98466,65.83,0,0,Lincoln Restler,bk,D,"Boerum Hill, bk Heights, bk Navy Yard, Downtown bk, 
+Dumbo, Fulton Ferry, Greenpoint, Vinegar Hill, Williamsburg",Irish,English,German,15088,11280,10984,136794.1
+34,176346,33319,70110,70418,14485,14664,1066,5285,80809,5855,20650,2293,3551,8018,2962,2783,588,964,198,264,20071,12274,2955,17408,108388,16,55760,101845,54.75,0,0,Jennifer Gutiérrez,"bk, q",D,"Williamsburg, Bushwick, Ridgewood",Puerto Rican,Dominican,Irish,23337,14932,10891,96233.8
+35,171534,30798,24614,64415,59220,11172,1939,9992,95570,4681,17829,2495,11529,13514,6628,1427,1078,858,460,469,36666,26644,1875,31777,116751,27,71727,111574,64.29,0,0,Crystal Hudson,bk,D,"Fort Greene, Clinton Hill, Crown Heights, Prospect Heights, Bedford 
+Stuyvesant",Irish,German,English,11045,7983,7930,107542.4
+36,164031,30586,31159,36766,77855,7688,1211,9120,89733,3117,16903,2688,10416,9882,2300,906,568,824,376,298,26286,19724,1023,23251,111836,21,58189,103992,55.96,0,0,Chi Ossé,bk,D,"Bedford Stuyvesant, Northern Crown Heights",Puerto Rican,Dominican,Irish,8297,7391,6927,77619.1
+37,157283,29812,83034,19482,36592,10344,2479,5130,68429,5475,18989,2189,4634,3620,922,919,387,716,545,169,12456,9038,1601,11817,88442,13,40235,85064,47.3,0,0,Sandy Nurse,bk,D,"Cypress Hills, Bushwick, City Line, Ocean Hill, Brownsville, East New York",Dominican,Puerto Rican,Ecuadorian,27348,20273,9222,71171.5
+38,158991,36120,56817,44700,8606,44622,859,3253,49769,9650,20632,1934,2205,3356,2388,2417,471,530,113,208,12109,8201,5596,15334,76223,20,40916,77504,52.79,0,0,Alexa Avilés,bk,D,"Red Hook, Sunset Park, Greenwood Heights and portions of Windsor Terrace, 
+Dyker Heights, and Boro Park","Chinese, excluding Taiwanese",Mexican,Puerto Rican,38942,20804,12270,80807.7
+39,173756,42190,24424,107554,9796,19723,1821,10324,90414,7180,19085,2519,4329,13812,15234,2697,1884,971,508,526,40700,30116,4107,38295,114499,33,76689,109157,70.26,0,0,Shahana Hanif,bk,D,"Cobble Hill, Carroll Gardens, Columbia Waterfront, Gowanus, Park Slope, 
+Windsor Terrace, Borough Park, Kensington",Italian,Irish,German,16287,16252,14094,146886.7
+40,172175,32615,24595,41092,84630,11572,1301,8769,85621,5161,18062,2519,11353,8340,2714,1138,887,641,328,359,26257,20437,1910,24470,105259,23,60823,101237,60.08,0,0,Rita Joseph,bk,D,"Crown Heights, East Flatbush, Flatbush, Kensington, Midwood, Prospect Park, 
+and Prospect Lefferts Gardens",Haitian,Jamaican,S African African,12719,12363,7570,83864.4
+41,180039,41091,28030,14370,123047,2495,1485,10352,77301,3358,15740,2103,12226,3093,534,495,369,281,333,266,17932,16518,910,18160,98010,19,48100,92730,51.87,0,0,Darlene Mealy,bk,D,"Bedford-Stuyvesant, Ocean Hill-Brownsville, East Flatbush, Crown Heights",Jamaican,Dominican,Puerto Rican,13276,8484,8010,57423.8
+42,162345,40197,34219,4450,106825,7051,2627,6594,75182,4212,16321,2039,12664,2181,394,654,504,290,390,296,17795,17095,1327,19022,102443,19,46157,92122,50.1,0,0,Chris Banks,bk,D,"East New York, New Lots, Remsen Village, Spring Creek, Starrett City",Puerto Rican,Jamaican,Dominican,14013,11203,11157,57903.2
+43,149131,35635,27966,43750,1608,70957,1002,3208,34344,10924,23402,1455,1046,705,810,3789,346,207,60,157,7419,3881,6624,11350,68535,17,30482,64795,47.04,0,0,Susan Zhuang,bk,D,"Bay Ridge, Dyker Heights, Bensonhurst, Bath Beach","Chinese, excluding Taiwanese",Italian,Mexican,64307,11427,10508,67215.8
+44,177185,65908,16464,124576,4208,22509,4988,4179,40792,18219,17245,1458,4815,498,662,5125,377,134,110,116,12109,6024,8488,15766,76460,21,41456,71877,57.68,0,0,Simcha Felder,bk,D,"Bensonhurst, Borough Park, Midwood, Ocean Parkway","Chinese, excluding Taiwanese",Mexican,Polish,12485,6888,6226,67780.8
+45,150891,31158,13433,28011,90779,8327,1063,9027,78604,6777,17542,2175,14608,3837,1344,1316,846,304,380,383,23393,20123,3582,24920,107198,23,58575,101201,57.88,0,0,Farah N. Louis,bk,D,"Flatbush, East Flatbush, Midwood, Marine Park, Flatlands, Kensington",Haitian,Jamaican,Guyanese,17742,12878,8005,84909
+46,166461,34895,14426,45296,83913,13420,1352,7883,68250,13847,20655,2651,10680,2275,1490,1633,1017,218,307,370,18322,15899,9241,26673,103516,26,59790,100726,59.36,0,0,Mercedes Narcisse,bk,D,"Bergen Beach, Canarsie, Flatlands, Georgetown, Gerritsen Beach, Marine 
+Park, Mill Basin, Mill Island, Sheepshead Bay",Haitian,Jamaican,Italian,16815,15292,10113,95624
+47,178263,38786,33608,88714,16742,32398,814,5555,50380,17713,25338,2849,3542,2349,2827,2664,882,456,229,346,13741,12058,11880,25890,97975,26,52192,90433,57.71,0,0,Justin Brannan,bk,R,"Bensonhurst, Coney Island, Gravesend, Sea Gate","Chinese, excluding Taiwanese",Italian,Puerto Rican,22173,17791,11052,78952.9
+48,157384,31255,13433,105663,3829,25762,917,7460,36994,24921,28186,2246,3365,726,1342,2244,764,171,124,205,9268,6341,12859,20758,89448,23,48181,87466,55.09,0,0,Inna Vernikov,bk,R,"Brighton Beach, m Beach, Sheepshead Bay, Homecrest, Trump Village, 
+Luna Park, Brightwater Towers, Midwood",Russian,Chinese,Ukranian,18343,15717,14673,71197.4
+49,156900,35160,50747,47313,38188,15130,627,4446,56416,16582,24357,3868,5357,2310,2157,1714,930,411,375,480,14155,14129,10294,26093,96686,27,54206,95669,56.66,0,0,Kamillah Hanks,si,D,"Arlington, Clifton, Clove Lakes, Concord, Elm Park, Graniteville, 
+Livingston, Mariners Harbor, New Brighton, Port Richmond, Randall Manor, 
+Rosebank, St. George, Snug Harbor, Silver Lake, Stapleton, Sunnyside, West 
+Brighton and Tompkinsville",Puerto Rican,Italian,Mexican,19700,15843,11459,83071.9
+50,179833,36944,27082,109943,5024,32442,1137,3965,38951,38646,29578,4669,2201,977,2335,2309,999,230,202,479,10009,9461,27304,39267,112941,35,70506,108338,65.08,0,0,David Carr,si,R,"Arrochar, Bloomfield, Bulls Head, Castleton Corners, Chelsea, Concord, 
+Dongan Hills, Egbertville, Emerson Hill, Fort Wadsworth, Graniteville, 
+Grant City, Grasmere, Heartland Village, Isle of Meadows, Lighthouse Hill, 
+Manor Heights, Meiers Corners, Midland Beach, New Dorp, New Springville, 
+Oakwood, Ocean Breeze, Old Town, Prall's Island, Richmondtown, Rosebank, 
+Shore Acres, South Beach, Todt Hill, Travis, Westerleigh, and Willowbrook",Italian,Chinese,Irish,40951,20640,16075,103046.2
+51,170664,38142,20522,128773,1495,16309,902,2529,33767,53250,30761,5208,1482,705,1858,1652,823,173,136,433,7468,7204,33807,43986,115838,38,80201,115796,69.26,0,0,Frank Morano,si,R,"Annadale, Arden Heights, Bay Terrace, Charleston, Eltingville, Great Kills, 
+Greenridge, Heartland Village, Huguenot, New Springville, Pleasant Plains, 
+Prince’s Bay, Richmond Valley, Rossville, Tottenville, Woodrow",Italian,Irish,Chinese,62135,20291,12106,115573
