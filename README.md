@@ -2,20 +2,19 @@
 This repository includes code that cleans and assigns data about people to NYC City Council Districts. This work supports the online, nonprofit newsroom THE CITY's "Get to Know Your City Council District" [news app](https://www.thecity.nyc/2025/12/10/nycha-rad-pact-boulevard-linden-violations/). The news app was originally published in 2023 and updated mid-2025. 
 
 ## Data
-#### This analysis uses three data sources:
+#### This analysis uses eight data sources:
 
 1. 2023 5-Year Census American Community Survey:
     - B04006 | People Reporting Ancestry
     - B03001 | Hispanic Or Latino Origin By Specific Origin
     - B02018 | Asian Alone By Selected Groups
-
-#### After downloading, follow these steps to clean the files:
-- Rename the zipped folders and data files. 
-- Do a TEXTSPLIT() of the "Geography" column on "US" and of the "Geographic Area Name" column on ";". 
-- Clean up the columns so that you have just the census tracts and county names remaining from the step above.
-- Filter for only Bronx, Richmond, Queens, Kings and New York County. Paste the selection onto another sheet. You should be left with 2,327 rows, which equals the number of census tracts in NYC. 
-- Rename the columns, remove the margin of error columns, and correct the data types of each column.
-- Optional: Get rid of columns in the cleaned sheet that wouldn't be useful in the actual analysis (e.g. 'Other Groups' or 'Not Specified'), but keep them in the raw sheets.
+2. [2024 Presidential General Election Results](https://www.vote.nyc/page/election-results-summary-2024)
+3. [2022 New York State Gubernatorial General Election Results](https://www.vote.nyc/page/election-results-summary-2022)
+4. [2021 New York City Local General Election Results](https://www.vote.nyc/page/election-results-summary-2021)
+5. [February 2025 Enrollment by County](https://elections.ny.gov/enrollment-election-district?q=/enrollment-election-district%3Fq%3D/enrollment-election-district%3Fq%3D/enrollment-election-district%3Fq%3D/enrollment-election-district%3Fq%3D/enrollment-election-district%3F/enrollment-election-district%3D&%2Fenrollment-election-district=&f%5B0%5D=filter_term%3A601)
+6. [November 2024 Enrollment by County](https://elections.ny.gov/enrollment-election-district?q=/enrollment-election-district%3F/enrollment-election-district%3D&%2Fenrollment-election-district=&f%5B0%5D=filter_term%3A571)
+7. [November 2022 Enrollment by County](https://elections.ny.gov/enrollment-election-district?q=/enrollment-election-district%3Fq%3D/enrollment-election-district%3Fq%3D/enrollment-election-district%3F/enrollment-election-district%3D&%2Fenrollment-election-district=&f%5B0%5D=filter_term%3A281)
+8. [November 2021 Enrollment By County](https://elections.ny.gov/enrollment-election-district?f[0]=filter_term%3A286&page=0)
 
 ## Pre-requisites
 The pact-env folder includes all packages needed to complete this analysis.
