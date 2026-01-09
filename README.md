@@ -21,12 +21,26 @@ The kyd-env folder includes all packages needed to complete this analysis.
 
 ## Methodology
 
-#### kyd_ethnic_pop.ipynb
-- Read in the Asian, Hispanic and Ancestry Census files (already manually cleaned)
+#### 1_crosswalk.ipynb
+- Create crosswalks that connect various periods of time to 2025 City Council Districts. 
+#### 2_ethnicity.ipynb
+- Read in the Asian, Hispanic and Ancestry Census files.
 - Reshape, or "melt" each dataframe so that the data is in a format we can analyze
 - Combine all of the data together, so that we have a column for Census Tract, Ethnicity and Count. 
 - Perform a series of groupings to get the "top" ethnic group in each tract (i.e. group with the highest population count). 
 - Save to file
+#### 3_elections.ipynb
+- Read in election results from 2021, 2022 and 2024.
+- Clean the results.
+- Assign votes and turnout rates to city council districts using relationship file.
+#### 4_income.ipynb
+- Read in Census data related to median income.
+- Assign median incomes to City Council districts using relationship file.
+- Save to file.
+#### 5_race.ipynb
+- Read in Census data related to population by race.
+- Assign counts based on race to City Council districts using relationship file.
+- Save to file. 
 
 ## Licensing
 All code in this repository is available under the MIT License. The data file in the output/ directory is available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. All files in the data/ directory are released into the public domain.
