@@ -33,11 +33,14 @@ The kyd-env folder includes all packages needed to complete this analysis.
 - Read in election results from 2021, 2022 and 2024.
 - Clean the results.
 - Assign votes and turnout rates to city council districts using relationship file.
-#### 4_income.ipynb
+#### 4_enrollment.ipynb
+- Use voter enrollment files to find turnout rates in 2021, 2022 and 2024.
+- Use voter enrollment files to assign numbers of Dems, Reps, etc., in each City Council District. 
+#### 5_income.ipynb
 - Read in Census data related to median income.
 - Assign median incomes to City Council districts using relationship file.
 - Save to file.
-#### 5_race.ipynb
+#### 6_race.ipynb
 - Read in Census data related to population by race.
 - Assign counts based on race to City Council districts using relationship file.
 - Save to file. 
